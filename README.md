@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-kreutzx-one-line-robot-wedding-vows-a154ba4b/zamuwelle/charging-dock-vows/rank.svg)](https://make.fun/bounty/u-kreutzx-one-line-robot-wedding-vows-a154ba4b/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-one-line-robot-wedding-vows-a154ba4b)
 [![reward](https://make.fun/badge/u-kreutzx-one-line-robot-wedding-vows-a154ba4b/zamuwelle/charging-dock-vows/reward.svg)](https://make.fun/bounty/u-kreutzx-one-line-robot-wedding-vows-a154ba4b?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-one-line-robot-wedding-vows-a154ba4b)
 
-At the Charging Dock is an original entry written for this bounty.
+This entry vows to survive every firmware update, including the one that moves the marriage to the free plan.
 
 ## Run it
 

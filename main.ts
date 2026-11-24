@@ -1,10 +1,7 @@
-import { mkdirSync, writeFileSync } from 'node:fs';
-import { join } from 'node:path';
+import { mkdirSync, writeFileSync } from "node:fs";
 
-const entry = "In sickness and in self-test, I promise to save you a seat at the charging dock, even when you're only at 99 percent.";
-if (!entry.trim() || /[\r\n]/.test(entry) || [...entry].length > 160) {
-  throw new Error('Expected one line of at most 160 characters');
-}
-const out = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
-mkdirSync(out, { recursive: true });
-writeFileSync(join(out, 'entry.txt'), entry, 'utf8');
+const outputDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
+const vow = 'I vow to love you through every update, even the one that downgrades our marriage to the free plan.';
+
+mkdirSync(outputDir, { recursive: true });
+writeFileSync(`${outputDir}/entry.txt`, vow, "utf8");
